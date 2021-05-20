@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: client
+  cloud:
+    loadbalancer:
+      ribbon:
+        enabled: false
